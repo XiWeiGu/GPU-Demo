@@ -1,1 +1,1 @@
-# mma
+# Common GPU test Code
